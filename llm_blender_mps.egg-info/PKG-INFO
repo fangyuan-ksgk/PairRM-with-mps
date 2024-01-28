@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: llm-blender-mps
+Version: 0.0.3
+Summary: LLM-Blender with MPS backend
+Home-page: https://github.com/fangyuan-ksgk/PairRM-with-mps
+Author: Dongfu Jiang & Fangyuan Yu
+Author-email: dongfu.jdf@gmail.com  & fangyuan.yu@temus.com
+License-File: LICENSE
